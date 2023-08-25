@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-const int MAX_SIZE = 100; // Maximum size of the array
+const int MAX_SIZE = 100; 
 
 int arr[MAX_SIZE];
 int size = 0;
